@@ -40,14 +40,10 @@ Here are some ideas to get you started:
 
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=flat&logo=python&logoColor=white) 
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=flat&logo=django&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat&logo=javascript&logoColor=white) 
 ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=flat&logo=vuedotjs&logoColor=white) 
 ![nodejs](https://img.shields.io/badge/node.js-339933.svg?&style=flat&logo=node.js&logoColor=white)
-![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=flat&logo=html5&logoColor=white) 
-![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=flat&logo=css3&logoColor=white) 
 ![dart](https://img.shields.io/badge/dart-0175C2.svg?&style=flat&logo=dart&logoColor=white)
 ![flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=flat&logo=flutter&logoColor=white)
-
 
 
 
@@ -61,22 +57,9 @@ Here are some ideas to get you started:
 ![cloud9](https://img.shields.io/badge/Cloud9-232F3E.svg?&style=flat&logo=amazonaws&logoColor=white)
 ![gdc](https://img.shields.io/badge/Google_Distributed_Cloud-4285F4.svg?&style=flat&logo=googlecloud&logoColor=white) 
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=flat&logo=docker&logoColor=white)
-
 ![elk](https://img.shields.io/badge/ELK-005571.svg?&style=flat&logo=elasticsearch&logoColor=white)
-![git](https://img.shields.io/badge/git-F05032.svg?&style=flat&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-181717.svg?&style=flat&logo=github&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=flat&logo=linux&logoColor=white)
-![centos](https://img.shields.io/badge/CentOS8-262577.svg?&style=flat&logo=linux&logoColor=white) 
-![firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=firebase&logoColor=white) 
-![chatgpt](https://img.shields.io/badge/ChatGPT_API-412991.svg?&style=flat&logo=openai&logoColor=white) 
-![kakaomap](https://img.shields.io/badge/Kakaomap_API-FFCD00.svg?&style=flat&logo=kakao&logoColor=white)
 
-![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=flat&logo=googlecolab&logoColor=white)
-![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=flat&logo=visualstudiocode&logoColor=white)
-![intellij](https://img.shields.io/badge/IntelliJ-000000.svg?&style=flat&logo=intellijidea&logoColor=white)
-![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=flat&logo=eclipseide&logoColor=white)
-![notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=notion&logoColor=white) 
-![slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=slack&logoColor=white) 
 ![jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=jira&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=figma&logoColor=white)
 
