@@ -1,8 +1,7 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=%20%20Welcome%20To%20My%20Step...%20&fontAlign=40&fontAlignY=40&color=0:ADFF2F,100:90EE90&fontColor=FFFFFF)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=%20%20Welcome%20To%20My%20Step%20&fontAlign=40&fontAlignY=40&color=0:F0FFF0,50:98FB98,100:E0FFFF&fontColor=FFFFFF)
 # Hello, I'm SooJeong Han 👋
 
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
 <!--
 **hancrysta1/hancrysta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Hi there 👋
@@ -26,7 +25,11 @@ Here are some ideas to get you started:
 
 ## ⚡ My Skills
 
-**💻 Lang and Frameworks 💻**
+
+
+
+
+### **💻 Lang and Frameworks 💻**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) 
@@ -52,10 +55,9 @@ Here are some ideas to get you started:
 ![flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 
 
----
 
 
-**🛠️ Infra and Tools 🛠️**
+### **🛠️ Infra and Tools 🛠️**
 
 
 ![aws](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) 
@@ -91,16 +93,14 @@ Here are some ideas to get you started:
 
 
 
----
-### 🚌 Top Langs & Algorithm
+
+
+<!-- ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hancrysta1&layout=compact)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hancrystal)](https://solved.ac/hancrystal)
+-->
 
-
-
-
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
 
 
 # See You NEXT!
