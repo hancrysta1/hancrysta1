@@ -1,4 +1,4 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=%20%20Welcome%20To%20My%20Step%20&fontAlign=40&fontAlignY=40&color=0:F0FFF0,50:98FB98,100:E0FFFF&fontColor=FFFFFF)
+<!-- ![Waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=%20%20Welcome%20To%20My%20Step%20&fontAlign=40&fontAlignY=40&color=0:F0FFF0,50:98FB98,100:E0FFFF&fontColor=FFFFFF)-->
 # Hello, I'm SooJeong Han 👋
 
 
@@ -31,17 +31,16 @@ Here are some ideas to get you started:
 
 ### **💻 Lang and Frameworks 💻**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) 
 ![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white) 
 ![springsecurity](https://img.shields.io/badge/springsecurity-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white) 
 
 
-![lombok](https://img.shields.io/badge/lombok-6DB33F.svg?&style=for-the-badge&logo=lombok&logoColor=white) 
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) 
-![mongodb](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
 ![jpa](https://img.shields.io/badge/JPA-6DB33F.svg?&style=for-the-badge&logo=java&logoColor=white) 
 ![mybatis](https://img.shields.io/badge/Mybatis-DC382D.svg?&style=for-the-badge&logo=java&logoColor=white)
+![lombok](https://img.shields.io/badge/lombok-6DB33F.svg?&style=for-the-badge&logo=lombok&logoColor=white) 
+![mongodb](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
@@ -89,7 +88,6 @@ Here are some ideas to get you started:
 ![slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white) 
 ![jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
-
 
 
 
