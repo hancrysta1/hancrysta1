@@ -83,11 +83,11 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"/>
 
 ### 📫 How to contact
-
+<!--
 📲 **Tistory**: https://hansjour.tistory.com/
 
 📚 **Velog**: https://velog.io/@hansjour/posts
-
+-->
 💻 **Github**: https://github.com/hancrysta1
 
 ✉️ **Email**: hancrystal.dev@gmail.com  
