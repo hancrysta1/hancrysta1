@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=flat&logo=mysql&logoColor=white) 
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?&style=flat&logo=postgresql&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=flat&logo=python&logoColor=white) 
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=flat&logo=django&logoColor=white)
 
