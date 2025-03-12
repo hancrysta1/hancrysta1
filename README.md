@@ -39,18 +39,22 @@ Here are some ideas to get you started:
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?&style=flat&logo=postgresql&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=flat&logo=python&logoColor=white) 
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=flat&logo=fastapi&color=teal)
 
 ![javascript](https://img.shields.io/badge/javascript-3776AB.svg?&style=flat&logo=python&logoColor=white)
 ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=flat&logo=vuedotjs&logoColor=white) 
 ![nodejs](https://img.shields.io/badge/node.js-339933.svg?&style=flat&logo=node.js&logoColor=white)
 ![flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=flat&logo=flutter&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat&logo=typescript&color=blue)
 
 
 
 
 ### **🛠️ Infra and Tools 🛠️**
 
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600.svg?style=flat&logo=rabbitmq&color=orange)
 ![redis](https://img.shields.io/badge/redis-FF4438.svg?style=flat&&logo=redis&color=red)
+![Kafka](https://img.shields.io/badge/kafka-231F20.svg?style=flat&logo=apache-kafka&color=black)
 ![s3](https://img.shields.io/badge/S3-569A31.svg?&style=flat&logo=amazons3&logoColor=white)
 ![gdc](https://img.shields.io/badge/Google_Distributed_Cloud-4285F4.svg?&style=flat&logo=googlecloud&logoColor=white) 
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=flat&logo=docker&logoColor=white)
