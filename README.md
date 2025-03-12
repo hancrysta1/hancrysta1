@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ![gdc](https://img.shields.io/badge/Google_Distributed_Cloud-4285F4.svg?&style=flat&logo=googlecloud&logoColor=white) 
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=flat&logo=docker&logoColor=white)
 ![elk](https://img.shields.io/badge/ELK-005571.svg?&style=flat&logo=elasticsearch&logoColor=white)
-
+![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?style=flat&logo=jenkins&color=red)
 
 
 
